@@ -1,0 +1,105 @@
+hr.hr {
+	border: 2px solid red;
+}
+
+.td a{
+	color: #1998AB;
+	text-decoration: none;
+	font-family: verdna;
+	font-weight: bold;
+}
+
+
+
+.table{
+border: 1px solid #ddd;
+border-spacing: 0;
+border-collapse: separate;
+width: 100%;
+}
+.tr-hover{
+font-family: "Open Sans",Calibri,Candara,Arial,sans-serif;
+font-size: 14px;
+line-height: 20px;
+color: #555;
+font-weight: 300;
+border-spacing: 0;
+border-collapse: separate;
+
+}
+.undlne{
+padding-left: 10px;
+font-family: "Open Sans",Calibri,Candara,Arial,sans-serif;
+font-size: 20px;
+text-align: left;
+vertical-align: top;
+font-weight: bold;
+color: #0F82F5;
+text-transform: uppercase;
+padding-right: 20px;
+padding-top: 46px;
+
+}
+.th{
+font-family: "Open Sans",Calibri,Candara,Arial,sans-serif;
+font-size: 14px;
+border-collapse: separate;
+padding-left: 20px;
+line-height: 20px;
+text-align: left;
+vertical-align: top;
+font-weight: bold;
+border-left: 1px solid #ddd;
+color: #0F82F5;
+text-transform: uppercase;
+width: 70px;
+padding-right: 20px;
+
+border-top: 0;
+border-top-left-radius: 0;
+background-color: #f9f9f9;
+
+}
+.spec-title{
+font-family: "Open Sans",Calibri,Candara,Arial,sans-serif;
+font-size: 14px;
+color: #555;
+border-spacing: 0;
+border-collapse: separate;
+padding: 8px 10px 8px 10px;
+line-height: 20px;
+text-align: left;
+vertical-align: top;
+border-left: 1px solid #ddd;
+font-weight: bold;
+width: 100px;
+padding-right: 70px;
+background-color: #f9f9f9;
+border-top: 0;
+}
+.spec-info{
+font-family: "Open Sans",Calibri,Candara,Arial,sans-serif;
+font-size: 14px;
+color: #555;
+font-weight: 300;
+border-spacing: 0;
+border-collapse: separate;
+padding: 8px;
+line-height: 20px;
+text-align: left;
+vertical-align: top;
+border-left: 1px solid #ddd;
+background-color: #f9f9f9;
+border-top: 0;
+border-top-right-radius: 0;
+width: 100%;
+}
+.row{
+padding-left: 10px;
+padding-right: 436px;
+padding-top: 30px;
+}
+
+
+
+

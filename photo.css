@@ -1,0 +1,18 @@
+.a{
+text-rendering: optimizeSpeed;
+text-align: left;
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+font: inherit;
+vertical-align: baseline;
+line-height: 1.375;
+font-weight: 500;
+-webkit-font-smoothing: initial;
+display: inline-block;
+border: none;
+font-size: inherit;
+text-decoration: none;
+cursor: pointer;
+color: #3D4752;
+}
